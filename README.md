@@ -93,7 +93,7 @@ FastAPI-based proxy service for handling authentication, token management, and s
 
 ## 📹 Demo
 
-<video src="assets/custom_ui_wxo_proxy_capture.mov" controls width="100%"></video>
+![Demo](assets/demo.gif)
 
 ## 📸 TechXchange AI Concierge On-site
 
